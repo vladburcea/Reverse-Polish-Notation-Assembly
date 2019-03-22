@@ -1,0 +1,5 @@
+The purpose of this assignment was to solve a mathematical expression that was given in "Reverse Polish notation". 
+To realize the algorithm used in the solution, I created a function that used the registers ECX (holding the index at which I'm at) and EDI (holding the string), that made the conversion of a number from a string to an integer. The result was stored in EAX.
+For 
+I implemented the signed arithmetical operation in assembly x86 and using conditional jumps, the function mentioned before and loops.
+For a better understanding of the approach taken, the code is thoroughly commentated.
